@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<fashion shope
 <html>
 <head>
     <title>Mohit Fashion Store</title>
